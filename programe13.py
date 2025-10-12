@@ -1,7 +1,7 @@
-name ="Im  a  Good  Boy."
+name ="Im a Good Boy."
 
-print(name.find("  "))
+print(name.find(" "))
 
 
-#DoubleSpaces are Replaces with Single Space
-print(name.replace("  "," "))
+#SingleSpace are Replaces with  DoubleSpaces 
+print(name.replace(" ","  "))
